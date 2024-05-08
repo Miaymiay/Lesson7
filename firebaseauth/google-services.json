@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676328554593",
+    "project_id": "lesson7-a9457",
+    "storage_bucket": "lesson7-a9457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676328554593:android:14cd2f4626645191b8ea20",
+        "android_client_info": {
+          "package_name": "com.mirea.pershinadv.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmZshGuhUf3PB97DTiByhGuO5CB0F4sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
